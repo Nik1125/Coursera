@@ -1,0 +1,12 @@
+.test1{
+    color:var(--c1);
+}
+.test2{
+    color:var(--c2);
+}
+.test3{
+    color:var(--c3);
+}
+.content1::after{
+    content: var(--t1);
+}
